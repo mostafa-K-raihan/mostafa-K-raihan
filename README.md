@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mostafa-K-raihan
-- 👀 I’m interested in MERN stack
-- 🌱 I’m currently learning Typescript
-- 💞️ I’m looking to collaborate on interesting open source projects written in mainly javascript environement
+- 👀 I’m interested in MERN stack, Rust, python
+- 🌱 I’m currently learning Rust
+- 💞️ I’m looking to collaborate on interesting open source projects
 - 📫 How to reach me : shoot me an email (mraihan29 AT gmail DOT com)
 
 <!---
